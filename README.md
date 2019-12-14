@@ -16,7 +16,9 @@ make
 make exec
 ```
 
-### see what happen
+### see each part by branches
+1. master branch => print func, read disk, include files 
+2. part8 branch => print hex data with register dx, learn segement:offset 
 
 # Reference
 [How to write an Operating system](https://www.youtube.com/watch?v=Lke3QOytgcQ&list=PLmlvkUN3-1MNKwINqdCDtTdNDjfBmWcZA&index=1)
